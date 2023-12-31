@@ -15,3 +15,11 @@ Saya juga memiliki beberapa sertifikat diantaranya :<br>
 * Sertifikat Magang Kampus Merdeka<br>
 * Sertifikat Dicoding<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/abdul-noersyam-10b30a174/) ku ya.
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulnoersyam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulnoersyam&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
