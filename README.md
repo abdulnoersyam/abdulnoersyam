@@ -1,16 +1,16 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**abdulnoersyam/abdulnoersyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Abdul Noersyam Yanuar**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa** di Universitas Pamulang.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya pernah mengikuti magang diantaranya :<br>
+-Power Apps/Power Automate Developer Intern di PT Suri Tani Pemuka selama 4 bulan<br>
+-IT Support & Data Entry Intern di Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia selama 3 bulan<br>
+-IT Support Intern di Bayu Computer selama 3 bulan<br>
+Saya juga memiliki beberapa sertifikat diantaranya :<br>
+-Lembaga Sertifikasi Profesi BNSP
+-Sertifikat Tanri Abeng University
+-Sertifikat Magang Kampus Merdeka
+-Sertifikat Dicoding
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/abdul-noersyam-10b30a174/) ku ya.
