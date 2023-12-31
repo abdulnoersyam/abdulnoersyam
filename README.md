@@ -9,8 +9,8 @@ Saya pernah mengikuti magang diantaranya :<br>
 -IT Support & Data Entry Intern di Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia selama 3 bulan<br>
 -IT Support Intern di Bayu Computer selama 3 bulan<br>
 Saya juga memiliki beberapa sertifikat diantaranya :<br>
--Lembaga Sertifikasi Profesi BNSP
--Sertifikat Tanri Abeng University
--Sertifikat Magang Kampus Merdeka
--Sertifikat Dicoding
+-Lembaga Sertifikasi Profesi BNSP<br>
+-Sertifikat Tanri Abeng University<br>
+-Sertifikat Magang Kampus Merdeka<br>
+-Sertifikat Dicoding<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/abdul-noersyam-10b30a174/) ku ya.
