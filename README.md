@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Abdul Noersyam Yanuar**.<br>
 
-Saya seorang **Mahasiswa** di Universitas Pamulang.<br>
+Saya seorang lulusan teknik informatika di Universitas Pamulang.<br>
 
 Saya pernah mengikuti magang diantaranya :<br>
 * Power Apps/Power Automate Developer Intern di PT Suri Tani Pemuka selama 4 bulan<br>
@@ -14,7 +14,8 @@ Saya juga memiliki beberapa sertifikat diantaranya :<br>
 * Sertifikat Tanri Abeng University<br>
 * Sertifikat Magang Kampus Merdeka<br>
 * Sertifikat Dicoding<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/abdul-noersyam-10b30a174/) ku ya.
+* Sertifikat Pengabdian Kepada Masyarakat<br>
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http://www.linkedin.com/in/abdul-noersyam) ku ya.
 
 ### Github Statistic
 <p align="left">
